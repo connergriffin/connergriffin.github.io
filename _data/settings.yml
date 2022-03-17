@@ -9,8 +9,8 @@ people:
 - {name: 'Conner Griffin', title: 'Doctoral Student', department: 'Mathematics', institution: 'University of Memphis', institution_address: '1 Main Street, Canada', phone: '(000) 000-0000', email: 'cgrffn11 at memphis dot edu', office: 'Dunn Hall 135', image: 'assets/img/cgrffn11.JPG', url: 'graduate-student'}
 
 courses:
-- {name: 'MATH 1910: Calculus I', url: 'calculus-I'}
-- {name: 'MATH 2110: Calculus III', url: 'calculus-III'}
+- {name: 'MATH 1910: Calculus I', url: '/calculus-I'}
+- {name: 'MATH 2110: Calculus III', url: '/calculus-III'}
 
 social:
 - {icon: 'github', link: 'https://github.com/connergriffin'}
