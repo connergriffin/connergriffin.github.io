@@ -4,7 +4,6 @@ menu:
 - {name: 'courses', url: '/courses'}
 - {name: 'cv', url: '/cv'}
 - {name: 'contact', url: '/contact'}
-- {name: 'about', url: '/about'}
 
 people:
 - {name: 'Conner Griffin', title: 'Doctoral Student', department: 'Mathematics', institution: 'University of Memphis', institution_address: '1 Main Street, Canada', phone: '(000) 000-0000', email: 'cgrffn11 at memphis dot edu', office: 'Dunn Hall 135', image: 'assets/img/cgrffn11.JPG', url: 'graduate-student'}
