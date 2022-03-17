@@ -8,8 +8,9 @@ layout: default
 {% for person in site.data.settings.about %}
 <div class="row g-5 mb-5">
   <div class="col-md-6">
-    <h5>{{ about.name }}</h5>
-    <p>Email: {{ about.email }}</p>
+    <h5>{{ person.name }}</h5>
+    <p>Email: {{ person.email }}</p>
+    <p>This is where I will write my about me.</p>
   </div>
   <div class="col-md-6">
     <img src="{{ site.github.url }}/{{ person.image }}" alt="Contact" width="100%">
