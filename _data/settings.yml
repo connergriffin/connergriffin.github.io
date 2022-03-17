@@ -14,10 +14,9 @@ courses:
 - {name: 'Stellar Structures', url: 'stellar-structures'}
 
 social:
-- {icon: 'github', link: 'https://github.com/LeNPaul'}
-- {icon: 'twitter', link: 'https://twitter.com/paululele'}
-- {icon: 'instagram', link: 'https://instagram.com/paululele'}
-- {icon: 'linkedin', link: 'https://linkedin.com/in/lenpaul'}
+- {icon: 'github', link: 'https://github.com/connergriffin'}
+- {icon: 'twitter', link: 'https://twitter.com/coffergrinnin'}
+- {icon: 'instagram', link: 'https://instagram.com/connersgriffin'}
 
 contacts:
 - {name: 'Conner Griffin', title: 'Doctoral Student', department: 'Mathematics', institution: 'University of Memphis', institution_address: '1 Main Street, Canada', phone: '(000) 000-0000', email: 'cgrffn11 at memphis dot edu', office: 'Dunn Hall 135', image: 'assets/img/cgrffn11.JPG'}
