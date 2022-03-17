@@ -3,15 +3,13 @@ layout: page
 title: "Graduate Student"
 ---
 
-Researcher - Physics & Astronomy
+Doctoral Student- Mathematics
 
-Some University - 1 Main Street, Canada
+University of Memphis
 
-Phone: (000) 000-0000
+Email: cgrffn11 at memphis dot edu
 
-Email: hello@university.edu
-
-Office: Science Building 505
+Office: Dunn Hall 135
 
 ---
 
