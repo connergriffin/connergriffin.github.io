@@ -3,7 +3,7 @@ layout: page
 title: "Calculus I"
 ---
 
-#### Course Information
+#### Syllabus
 
 [Syllabus](/courses/calculus-I/Math1910_syllabus.pdf)
 
