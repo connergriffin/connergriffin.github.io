@@ -18,5 +18,7 @@ title: "Calculus I"
 #### Exams
 
 [Exam 1](/courses/calculus-i/Exam1B&W.pdf)
+
 [Exam 2](/courses/calculus-i/Exam2.pdf)
+
 [Exam 3](/courses/calculus-i/Exam3.pdf)
