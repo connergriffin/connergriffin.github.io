@@ -1,11 +1,19 @@
-<!DOCTYPE html>
-<html lang="{{ site.lang | default: "en-US" }}">
-  {% include head.html %}
-  <body>
-    <div class="col-lg-8 mx-auto p-3 py-md-5">
-      {% include header.html %}
-      {{ content }}
-      {% include footer.html %}
-    </div>
-  </body>
-</html>
+---
+layout: default
+---
+
+{{ content }}
+
+<h3 class="fw-bold border-bottom pb-3 mb-5">About</h3>
+{% for about me info%}
+<div class="row g-5 mb-5">
+  <div class="col-md-6">
+    <h5>{{ person.name }}</h5>
+    <p>Email: {{ person.email }}</p>
+    <p><a href="{{ site.github.url }}/about/{{ person.url }}">More info</a></p>
+  </div>
+  <div class="col-md-6">
+    <img src="{{ site.github.url }}/{{ person.image }}" alt="Contact" width="100%">
+  </div>
+</div>
+{% endfor %}
