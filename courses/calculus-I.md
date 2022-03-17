@@ -5,31 +5,18 @@ title: "Calculus I"
 
 #### Course Information
 
-[Course Outline](/courses/quantum-mechanics/Sample_Course_Outline.pdf)
+[Syllabus](/courses/calculus-i/Math1910_syllabus.pdf)
 
-#### Lecture Notes
+#### Bonus Problems
 
-[Lecture 1](/courses/quantum-mechanics/Sample_Lecture_Notes.pdf)
+[Bonus 1](/courses/calculus-i/BonusProblems.pdf)
 
-[Lecture 2](/courses/quantum-mechanics/Sample_Lecture_Notes.pdf)
+[Bonus 2](/courses/calculus-i/BonusProblems2.pdf)
 
-[Lecture 3](/courses/quantum-mechanics/Sample_Lecture_Notes.pdf)
-
-#### Homework
-
-[Homework 1](/courses/quantum-mechanics/Sample_Lecture_Notes.pdf)
-
-[Homework 2](/courses/quantum-mechanics/Sample_Lecture_Notes.pdf)
-
-[Homework 3](/courses/quantum-mechanics/Sample_Lecture_Notes.pdf)
-
-#### Midterms
-
-[Midterm 1](/courses/quantum-mechanics/Sample_Midterm.pdf)
-
-[Midterm 2](/courses/quantum-mechanics/Sample_Midterm.pdf)
+[Bonus 3](/courses/calculus-i/BonusProblems3.pdf)
 
 #### Exams
 
-[Exam 1](/courses/quantum-mechanics/Sample_Exam.pdf)
-
+[Exam 1](/courses/calculus-i/Exam1B&W.pdf)
+[Exam 2](/courses/calculus-i/Exam2.pdf)
+[Exam 3](/courses/calculus-i/Exam3.pdf)
