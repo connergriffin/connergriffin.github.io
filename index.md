@@ -3,5 +3,4 @@ layout: home
 title: "Home"
 ---
 
-
-This is where I will write my about me?
+Hi! I am a doctoral student in the math department at the University of Memphis. I am interested in analytic methods used in combinatorics. This especially includes ergodic theoretic approaches to combinatorial number theory.
