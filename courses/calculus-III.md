@@ -5,31 +5,10 @@ title: "Calculus III"
 
 #### Course Information
 
-[Course Outline](/courses/quantum-mechanics/Sample_Course_Outline.pdf)
+[Syllabus](/courses/calculus-III/Math2110_syllabus_WIP.pdf)
 
-#### Lecture Notes
+#### Course Notes
 
-[Lecture 1](/courses/quantum-mechanics/Sample_Lecture_Notes.pdf)
+[Notes](/courses/calculus-III/multivariable_cal_summer22.pdf)
 
-[Lecture 2](/courses/quantum-mechanics/Sample_Lecture_Notes.pdf)
-
-[Lecture 3](/courses/quantum-mechanics/Sample_Lecture_Notes.pdf)
-
-#### Homework
-
-[Homework 1](/courses/quantum-mechanics/Sample_Lecture_Notes.pdf)
-
-[Homework 2](/courses/quantum-mechanics/Sample_Lecture_Notes.pdf)
-
-[Homework 3](/courses/quantum-mechanics/Sample_Lecture_Notes.pdf)
-
-#### Midterms
-
-[Midterm 1](/courses/quantum-mechanics/Sample_Midterm.pdf)
-
-[Midterm 2](/courses/quantum-mechanics/Sample_Midterm.pdf)
-
-#### Exams
-
-[Exam 1](/courses/quantum-mechanics/Sample_Exam.pdf)
 
