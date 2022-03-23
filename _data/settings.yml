@@ -6,7 +6,7 @@ menu:
 - {name: 'Contact', url: '/contact'}
 
 about:
-- {name: 'Conner Griffin', title: 'Doctoral Student', department: 'Mathematics', institution: 'University of Memphis', institution_address: '1 Main Street, Canada', phone: '(000) 000-0000', email: 'cgrffn11 at memphis dot edu', office: 'Dunn Hall 135', image: 'assets/img/cgrffn11.JPG', url: 'graduate-student'}
+- {name: 'Conner Griffin', title: 'Doctoral Student', department: 'Mathematics', institution: 'University of Memphis', institution_address: '1 Main Street, Canada', phone: '(000) 000-0000', email: 'cgrffn11 at memphis dot edu', office: 'Dunn Hall 143', image: 'assets/img/cgrffn11.JPG', url: 'graduate-student'}
 
 courses:
 - {name: 'MATH 1910: Calculus I', url: 'calculus-I'}
@@ -18,4 +18,4 @@ social:
 - {icon: 'instagram', link: 'https://instagram.com/connersgriffin'}
 
 contacts:
-- {name: 'Conner Griffin', title: 'Doctoral Student', department: 'Mathematics', institution: 'University of Memphis', institution_address: '1 Main Street, Canada', phone: '(000) 000-0000', email: 'cgrffn11 at memphis dot edu', office: 'Dunn Hall 135', image: 'assets/img/cgrffn11.JPG'}
+- {name: 'Conner Griffin', title: 'Doctoral Student', department: 'Mathematics', institution: 'University of Memphis', institution_address: '1 Main Street, Canada', phone: '(000) 000-0000', email: 'cgrffn11 at memphis dot edu', office: 'Dunn Hall 143', image: 'assets/img/cgrffn11.JPG'}
