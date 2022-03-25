@@ -1,7 +1,9 @@
 featured:
 - {name: 'A proof of Rohlins tower', url: '/portfolio/Rohlin_tower_CGriffin.pdf'}
-- {name: 'A presentation on Newtons Method', url: '/portfolio/newtonsmethod_presentation.pdf'}
+- {name: 'A presentation on Newtons method', url: '/portfolio/newtonsmethod_presentation.pdf'}
+- {name: 'A presentation on abstract harmonic analysis', url: '/portfolio/grad_seminar.pdf'}
 
 index:
 - {name: 'A proof of Rohlins tower', url: '/portfolio/Rohlin_tower_CGriffin.pdf'}
 - {name: 'A presentation on Newtons Method', url: '/portfolio/newtonsmethod_presentation.pdf'}
+- {name: 'A presentation on abstract harmonic analysis', url: '/portfolio/grad_seminar.pdf'}
