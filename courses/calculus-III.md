@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Calculus III (ended up not teaching)"
+title: "Calculus III (not taught)"
 ---
 
 #### Course Information
