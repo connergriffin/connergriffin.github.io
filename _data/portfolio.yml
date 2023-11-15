@@ -1,6 +1,6 @@
 featured:
 - {name: 'A proof of Rohlins tower', url: '/portfolio/Rohlin_tower_CGriffin.pdf'}
-- {name: 'A presentation on abstract harmonic analysis', url: '/portfolio/grad_seminar.pdf'}
+- {name: 'A presentation on ergodic theorems for amenable group actions', url: '/portfolio/presentation-amenable-ergodic-thms.pdf'}
 - {name: 'The Wallman compactification', url: '/portfolio/grad_seminar_wallman.pdf'}
 
 index:
