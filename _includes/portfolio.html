@@ -4,20 +4,20 @@
     {% if page.title == "Home" %}
     <p>Preprints</p>
       {% for item in site.data.preprints.featured %}
-        <p><a href="{{ item.url }}">{{ item.name }}</a></p>
+        <p><pre><a href="{{ item.url }}">{{ item.name }}</a></p>
       {% endfor %}
     <p>Surveys and Presentations</p>  
       {% for item in site.data.portfolio.featured %}
-        <p><a href="{{ item.url }}">{{ item.name }}</a></p>
+        <p><pre><a href="{{ item.url }}">{{ item.name }}</a></p>
       {% endfor %}
     {% else %}
     <p>Preprints</p>
       {% for item in site.data.preprints.featured %}
-        <p><a href="{{ item.url }}">{{ item.name }}</a></p>
+        <p><pre><a href="{{ item.url }}">{{ item.name }}</a></p>
       {% endfor %}
     <p>Surveys and Presentations</p>
       {% for item in site.data.portfolio.index %}
-        <p><a href="{{ item.url }}">{{ item.name }}</a></p>
+        <p><pre><a href="{{ item.url }}">{{ item.name }}</a></p>
       {% endfor %}
     {% endif %}
   </div>
