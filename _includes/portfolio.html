@@ -3,22 +3,30 @@
     <h3 class="fw-bold border-bottom pb-3 mb-5">Portfolio</h3>
     {% if page.title == "Home" %}
     <p>Preprints</p>
+      <ul>
       {% for item in site.data.preprints.featured %}
-        <p>&nbsp;<a href="{{ item.url }}">{{ item.name }}</a></p>
+        <li><a href="{{ item.url }}">{{ item.name }}</a></li>
       {% endfor %}
-    <p>Surveys and Presentations</p>  
+      </ul>
+    <p>Surveys and Presentations</p>
+      <ul>
       {% for item in site.data.portfolio.featured %}
-        <p>&nbsp;<a href="{{ item.url }}">{{ item.name }}</a></p>
+        <li><a href="{{ item.url }}">{{ item.name }}</a></li>
       {% endfor %}
+      </ul>
     {% else %}
     <p>Preprints</p>
+      <ul>
       {% for item in site.data.preprints.featured %}
-        <p>&nbsp;<a href="{{ item.url }}">{{ item.name }}</a></p>
+        <li><a href="{{ item.url }}">{{ item.name }}</a></li>
       {% endfor %}
+      </ul>
     <p>Surveys and Presentations</p>
+      <ul>
       {% for item in site.data.portfolio.index %}
-        <p>&nbsp;<a href="{{ item.url }}">{{ item.name }}</a></p>
+        <li><a href="{{ item.url }}">{{ item.name }}</a></li>
       {% endfor %}
+      </ul>
     {% endif %}
   </div>
 </div>
