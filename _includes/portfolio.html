@@ -2,9 +2,9 @@
   <div>
     <h3 class="fw-bold border-bottom pb-3 mb-5">Portfolio</h3>
     {% if page.title == "Home" %}
-    <p>Preprints</p>
+    <p>Publications</p>
       <ul>
-      {% for item in site.data.preprints.featured %}
+      {% for item in site.data.publications.featured %}
         <li><a href="{{ item.url }}">{{ item.name }}</a></li>
       {% endfor %}
       </ul>
@@ -15,9 +15,9 @@
       {% endfor %}
       </ul>
     {% else %}
-    <p>Preprints</p>
+    <p>Publications</p>
       <ul>
-      {% for item in site.data.preprints.featured %}
+      {% for item in site.data.publications.featured %}
         <li><a href="{{ item.url }}">{{ item.name }}</a></li>
       {% endfor %}
       </ul>
