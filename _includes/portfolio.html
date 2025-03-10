@@ -8,6 +8,12 @@
         <li><a href="{{ item.url }}">{{ item.name }}</a></li>
       {% endfor %}
       </ul>
+    <p>Pre-prints</p>
+      <ul>
+      {% for item in site.data.prepreints.featured %}
+        <li><a href="{{ item.url }}">{{ item.name }}</a></li>
+      {% endfor %}
+      </ul>
     <p>Surveys and Presentations</p>
       <ul>
       {% for item in site.data.portfolio.featured %}
@@ -18,6 +24,12 @@
     <p>Publications</p>
       <ul>
       {% for item in site.data.publications.featured %}
+        <li><a href="{{ item.url }}">{{ item.name }}</a></li>
+      {% endfor %}
+      </ul>
+    <p>Pre-prints</p>
+      <ul>
+      {% for item in site.data.prepreints.index %}
         <li><a href="{{ item.url }}">{{ item.name }}</a></li>
       {% endfor %}
       </ul>
