@@ -10,7 +10,9 @@ about:
 
 courses:
 - {name: 'MATH 1910: Calculus I', url: 'calculus-I'}
-- {name: 'MATH 2110: Calculus III', url: 'calculus-III'}
+- {name: 'MATH 2120: Differential Equations', url: 'diffEq'}
+- {name: 'MATH 1130: College Algebra for Business', url:'business-algebra'}
+- {name: 'MATH 1131: Calculus for Business', url:'business-cal'}
 
 social:
 - {icon: 'github', link: 'https://github.com/connergriffin'}
